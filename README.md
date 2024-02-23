@@ -4,8 +4,7 @@
 * ```$ pkg install python```
 * ```$ pkg install git```
 * ```$ pip install requests```
-* ```$ pip install pip install termcolor
-```
+* ```$ pip install termcolor```
 * ```$ git clone https://github.com/RidwanzAnphelibelll/Register```
 * ```$ cd Register```
 * ```$ python main.py```
